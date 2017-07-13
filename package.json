@@ -23,7 +23,6 @@
   "homepage": "https://github.com/wssjq198913/AngularES6#readme",
   "dependencies": {
     "angular": "^1.6.5",
-    "angular-router": "0.0.2",
     "angular-ui-router": "^1.0.3"
   },
   "devDependencies": {
